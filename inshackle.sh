@@ -1,7 +1,7 @@
 C #!/bin/bash
 # Inshackle v1.0
 # recoded by: CYBER KALLAN
-# github.com/cyberkallan/inshackle-bot
+# github.com/cyberkallan/inshackle-bott
 # If you use any part from this code, give me the credits, please, read the License
 
 
@@ -24,7 +24,7 @@ banner() {
 printf " \n"
 printf " \e[1;31mM\"\"M\e[0m\e[1;77m                   \e[0m\e[1;93mdP                         dP       \e[0m\e[1;77mdP           \e[0m\n"
 printf " \e[1;31mM  M\e[0m\e[1;77m                   \e[0m\e[1;93m88                         88       \e[0m\e[1;77m88           \e[0m\n"
-printf " \e[1;31mM  M\e[0m\e[1;77m 88d888b. .d8888b. \e[0m\e[1;93m88d888b. .d8888b. .d8888b. 88  .dP  \e[0m\e[1;77m88 .d8888b.  \e[0m\n"
+printf " \e[1;31mM  M\e[0m\e[1;77m 88d888b. .d88888b. \e[0m\e[1;93m88d888b. .d8888b. .d8888b. 88  .dP  \e[0m\e[1;77m88 .d8888b.  \e[0m\n"
 printf " \e[1;31mM  M\e[0m\e[1;77m 88'  \`88 Y8ooooo. \e[0m\e[1;93m88\'  \`88 88\'  \`88 88'  \`\"\" 88888\"   \e[0m\e[1;77m88 88ooood8  \e[0m\e[0m\n"
 printf " \e[1;31mM  M\e[0m\e[1;77m 88    88       88 \e[0m\e[1;93m88    88 88.  .88 88.  ... 88  \`8b. \e[0m\e[1;77m88 88.  ...  \e[0m\n"
 printf " \e[1;31mM  M\e[0m\e[1;77m dP    dP \`88888P\' \e[0m\e[1;93mdP    dP \`88888P8 \`88888P\' dP   \`YP \e[0m\e[1;77mdP \`88888P\'  \e[0m\n"
@@ -427,7 +427,6 @@ therock="232192182"
 kylie="12281817"
 jelopez="305701719"
 messi="427553890"
-
 dualipa="12331195"
 mileycyrus="325734299"
 shawnmendes="212742998"
